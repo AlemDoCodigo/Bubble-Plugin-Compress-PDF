@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "sharp": "latest",
+        "pdf-lib": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "caption": "Remove Metadata",
+    "doc": "pdf-lib e remover metadados",
+    "fields": {
+        "AAc": {
+            "caption": "action_pdf_data",
+            "doc": "data in base64",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "action_pdf_data",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}

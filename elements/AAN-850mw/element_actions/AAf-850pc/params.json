@@ -1,0 +1,22 @@
+{
+    "caption": "Compress PDFjs",
+    "doc": "PDFjs",
+    "fields": {
+        "AAg": {
+            "caption": "action_pdf_data",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "action_pdf_data",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAh": {
+            "caption": "quality",
+            "default_val": "0.7",
+            "editor": "Dropdown",
+            "name": "quality",
+            "options": "0.5,0.6,0.7,0.8,0.9,0.95",
+            "rank": 1
+        }
+    }
+}

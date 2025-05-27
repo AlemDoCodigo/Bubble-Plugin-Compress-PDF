@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "PDF",
+        "1": "productivity",
+        "2": "image",
+        "3": "media"
+    },
+    "data_tracked": false,
+    "description": "Este plugin permite criar e manipular arquivos PDF diretamente no Bubble.\n\nComprima PDFs (simples ou em alta compressão).\n\nRemova metadados para maior privacidade.\n\nConverta imagens (jpg, jpeg, png, webp) em PDF.\n\nUse scripts dinâmicos (pdf-lib e jsPDF) e jQuery 3 para maior flexibilidade.\n\nTudo isso de forma rápida e integrada ao seu aplicativo Bubble, sem precisar de serviços externos.\n",
+    "image": "//meta-q.cdn.bubble.io/f1740823006400x782695752856725400/icone.png",
+    "license": "open_source",
+    "name": "Compress PDF",
+    "sa_node_version": 18
+}

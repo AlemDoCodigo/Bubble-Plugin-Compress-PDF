@@ -1,0 +1,40 @@
+{
+    "add_is_visible": true,
+    "add_large_file_upload_properties": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "PDF Compressor",
+    "events": {
+        "AAR": {
+            "caption": "upload_complete",
+            "name": "upload_complete"
+        },
+        "AAp": {
+            "caption": "erro",
+            "name": "erro"
+        }
+    },
+    "icon": "ion-android-document",
+    "platform_type": "web",
+    "states": {
+        "AAQ": {
+            "caption": "compressed_pdf",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "compressed_pdf",
+            "value": "text"
+        },
+        "AAq": {
+            "caption": "error_message",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "error_message",
+            "value": "text"
+        }
+    }
+}

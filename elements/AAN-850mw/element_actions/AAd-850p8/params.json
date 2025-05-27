@@ -1,0 +1,15 @@
+{
+    "caption": "High compress",
+    "doc": "\"compress: true\" e \"useObjectStreams: true\"",
+    "fields": {
+        "AAe": {
+            "caption": "action_pdf_data",
+            "doc": "data in base64",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "action_pdf_data",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}

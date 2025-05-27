@@ -1,0 +1,14 @@
+{
+    "caption": "image to pdf",
+    "doc": ".jpg, .jpeg, .png, .webp to pdf",
+    "fields": {
+        "AAj": {
+            "caption": "action_image_data",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "action_image_data",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "category": "plugins",
+    "display": "Compress",
+    "fields": {
+        "AAl": {
+            "caption": "fileBase64",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "filebase64",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAm": {
+            "caption": "fileType",
+            "default_val": "pdf",
+            "editor": "Dropdown",
+            "name": "filetype",
+            "options": "imagem,pdf,texto",
+            "rank": 1
+        },
+        "AAn": {
+            "caption": "quality",
+            "default_val": 90,
+            "doc": "qualidade (0-100)",
+            "editor": "DynamicValue",
+            "name": "quality",
+            "rank": 2,
+            "value": "number"
+        }
+    },
+    "return_value": {
+        "AAo": {
+            "caption": "compressed_file",
+            "name": "compressed_file",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}
